@@ -7,7 +7,7 @@ This app created with Python, Pandas and Openpyxl
 
 This project is about open website and scrape data from 
 differnt elements from the web page.....
-        In this project i made a bot whick can get values from
+        In this project i made a bot which can get values from
 google map search list one by one and extrace the values 
 in a excel file in the desktop home Details folder....
 Don't need to create any file.<If any error auccord or
