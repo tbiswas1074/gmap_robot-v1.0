@@ -134,7 +134,8 @@ made the dynamic element detector.
 # Screenshorts
 
 
-https://github.com/tbiswas1074/My-Projects/blob/main/inputs.png
+https://github.com/tbiswas1074/gmap_robot-v1.0/blob/main/inputs.png
+        
 ## Support
 
 For support, email biswastuhin1074@gmail.com 
