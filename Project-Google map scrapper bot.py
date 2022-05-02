@@ -61,7 +61,7 @@ def searcher(list1, list2, list3, list4, list5, list6, list7, list8):
         list5.append('Unknown')
     try:
         opening = WebDriverWait(driver, 5).until(
-            EC.presence_of_element_located((By.CLASS_NAME, 'LJKBpe-Tswv1b-hour-text')))
+            EC.presence_of_element_located((By.XPATH, "//body/div[@id='app-container']/div[@id='content-container']/div[@id='pane']/div[1]/div[1]/div[1]/div[1]/div[7]//div[@role='button']/div[1]/div[1]/span[1]")))
         # print(opening.text)
         driver.execute_script('arguments[0].scrollIntoView(true);', opening)
         list6.append(opening.text)
