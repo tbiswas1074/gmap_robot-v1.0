@@ -17,9 +17,9 @@ file not created in the desktop home create a Folder name
 #Technologies:
 
 Python:
->1.Selenium
->2.Pandas
->3.Openpyxl
+>1.selenium==4.1.3
+>2.pandas==1.4.2
+>3.openpyxl==3.0.9
 
 ## Additional Information
 
